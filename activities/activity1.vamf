@@ -5,7 +5,13 @@
    "descriptionMarkdown":"Activity1.md",
    "topology": [
 {
-      "name": "Topology 1", "Abs Topo",
+      "name": "Abs Topo",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    }
+    {
+      "name": "topo1",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
       "reservationDuration":""
