@@ -1,25 +1,17 @@
  {
 
    "name":"Reserve Velocity Cluster",
-
    "priority": 100,
-
    "shortDescription": "Activity allows to reserve Velocity Cluster and could be used for tests or demos",
-
-   "descriptionMarkdown":"velocityCluster.md",
-
+   "icon":"customActivityManual.svg",
+   "descriptionMarkdown":"Activity1.md",
    "topology": [{
 
       "name": "Velocity Cluster",
-
       "actionTitle":"Reserve",
-
       "description": "Immidiate reservation of two VMs Velocity VM and VDS VM",
-
       "reservationDuration":"60",
-
       "automation": [],
-
       "interaction":[]
 
     }]
