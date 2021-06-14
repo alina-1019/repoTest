@@ -1,15 +1,28 @@
-{
-   "name":"Activity 1 - Repo 1",
-   "shortDescription": "Test Activity on eduard-repo in master branch",
-   "priority": 10,
-   "icon":"customActivityManual.svg",
-   "descriptionMarkdown":"Activity1.md",
-   "topology": [
-{
-      "name": "Topology 1",
+ {
+
+   "name":"Reserve Velocity Cluster",
+
+   "priority": 100,
+
+   "shortDescription": "Activity allows to reserve Velocity Cluster and could be used for tests or demos",
+
+   "descriptionMarkdown":"velocityCluster.md",
+
+   "topology": [{
+
+      "name": "Velocity Cluster",
+
       "actionTitle":"Reserve",
-      "description": "Create an immediate reservation on the topology",
-      "reservationDuration":""
+
+      "description": "Immidiate reservation of two VMs Velocity VM and VDS VM",
+
+      "reservationDuration":"60",
+
+      "automation": [],
+
+      "interaction":[]
+
     }]
+
 }
 
