@@ -1,7 +1,7 @@
  {
 
    "name":"Activity A",
-   "priority": 8,
+   "priority": 88,
    "shortDescription": "Activity allows to reserve Velocity Cluster and could be used for tests or demos",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
