@@ -1,6 +1,6 @@
 {
    "name":"Activity D",
-   "priority": 50,
+   "priority": 90,
    "shortDescription": "Test Activity on eduard-repo in master branch",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
