@@ -1,6 +1,6 @@
  {
 
-   "name":"Activity A",
+   "name":"Activity d",
    "shortDescription": "Activity allows to reserve Velocity Cluster and could be used for tests or demos",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
