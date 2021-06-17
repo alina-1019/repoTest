@@ -5,10 +5,10 @@
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [{
-      "name": "Topo1",
+      "name": "abs excl",
       "actionTitle":"Reserve",
       "description": "Immediate reservation of two VMs Velocity VM and VDS VM",
-      "reservationDuration":"60",
+      "reservationDuration":"10",
       "automation": [],
       "interaction":[]
     }]
