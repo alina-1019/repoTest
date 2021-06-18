@@ -7,7 +7,7 @@
    "descriptionMarkdown":"Activity1.md",
    "topology": [{
 
-      "name": "abs excl",
+      "name": "abs",
       "actionTitle":"Reserve",
       "description": "Immidiate reservation of two VMs Velocity VM and VDS VM",
       "reservationDuration":"10",
