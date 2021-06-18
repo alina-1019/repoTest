@@ -1,0 +1,19 @@
+{
+   "name":"Activity 3",
+   "priority": 10,
+   "shortDescription": "Test Activity on eduard-repo in master branch",
+   "descriptionMarkdown":"",
+   "topology": [
+{
+      "name": "Abs Topo",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    },
+    {
+      "name": "topo1",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    }]
+}
