@@ -1,7 +1,7 @@
 {
-   "name":"Activity 1",
+   "name":"Activity t3",
    "priority": 10,
-   "shortDescription": "Test Activity on eduard-repo in master branch",
+   "shortDescription": "10",
    "descriptionMarkdown":"",
    "topology": [
 {
